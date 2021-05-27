@@ -21,8 +21,8 @@ public class DemoArrayList {
         Integer c = 4;
         b.add(c);
 
-        for(int i = 0; i < b.size() ; i++){
-            System.out.println(b.get(i));
+        for(Integer x:b){
+            System.out.println(x);
         }
     }
 }
