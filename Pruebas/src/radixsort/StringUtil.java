@@ -65,5 +65,5 @@ public class StringUtil {
 			arr[i] = lpad(arr[i], maxLength(arr), c);
 		}
 	}
-	
+
 }
